@@ -3,30 +3,9 @@
     "README.md",
     "README_CN.md"
   ],
-  "imageSize": 100,
+  "imageSize": 30,
   "commit": false,
-  "contributors": [
-    {
-      "login": "wanhanbo",
-      "name": "wanhanbo",
-      "avatar_url": "https://avatars.githubusercontent.com/u/97089788?v=4",
-      "profile": "https://github.com/wanhanbo",
-      "contributions": [
-        "bug"
-      ]
-    },
-    {
-      "login": "dengn",
-      "name": "dengn",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4965857?v=4",
-      "profile": "https://github.com/dengn",
-      "contributions": [
-        "bug",
-        "code"
-      ]
-    }
-  ],
-  "contributorsPerLine": 7,
+  "contributorsPerLine": 20,
   "projectName": "mytest",
   "projectOwner": "wanhanbo",
   "repoType": "github",
